@@ -3,9 +3,9 @@ Applicant Tracking Systems
 
 Applicant Tracking Systems exist to make life easier for recruiters. Using an ATS, recruiters can push job adds to the market and keep track of applicants through each stage of the recruitment process. Crucially for us, an ATS often use AI to screen career documents (CV and cover letters) for specific key words. Applications that score a high match statistic go through to a human recruiter while others might not see the light of day.
 
-Your applications won't always be screened by an ATS. According to [JobScan](https://gohire.io/blog/how-many-companies-use-applicant-tracking) only 35% of SMEs using ATS systems and 66% of large companies do. If you're applying mostly to start-ups or sending your CV directly to a person, it's less likely you'll need to think about ATSs. If you're targeting training schemes or graduate programmes it's almost certain that your CV will be screened.
+Your applications won't always be screened by an ATS. According to [JobScan](https://gohire.io/blog/how-many-companies-use-applicant-tracking) only 35% of SMEs using ATS systems and 66% of large companies do. If you're applying mostly to start-ups or sending your CV directly to a person, it's less likely you'll need to think about an ATS friendly CV. If you're targeting training schemes or graduate programmes it's almost certain that your CV will be screened.
 
-In general, it's better to keep your CV ATS friendly and you can do that by following these guidelines:
+In general, it's better to keep your CV ATS friendly just in case and you can do that by following these guidelines:
 
 * Keep the format as simple as possible. Don't use a CV builder that suggests you use a fancy design. Even using a table in your CV can be problematic for an ATS to read. Using a double column function seems to be okay.
 
