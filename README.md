@@ -20,7 +20,7 @@ and are now happily retired.
 ## The Champions
 
 * [Ben Sheridan Edwards' CV](https://github.com/BenSheridanEdwards/GitHub_CV) helped him get his first dev job as a front-end developer at Blackbullion.
-* [Jason Wong's CV](cvs/Jason_Wong_CV.pdf) helped get him his first dev job, as a
+* [Jason Wong's CV](CVExamples/Jason Wong.pdf) helped get him his first dev job, as a
   Software Engineer at Transreport.
   * [Josh Blumberg's CV](cvs/Josh_Blumberg_CV.pdf) and [covering letter](cvs/Josh_Blumberg_Covering_Letter.pdf)
   helped get him his first dev job at Tiney.
