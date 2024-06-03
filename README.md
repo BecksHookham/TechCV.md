@@ -1,10 +1,44 @@
-# TechCV.md
+# The Home of the Makers Tech CV Guides
 
+The moment has come to write the long procrastinated over tech CV. We teach two types of CV here which look like this:
 
-### GitHub CVs
+## The PDF CV
+
+This is the standard CV  but 'techified;. It looks something like [this](https://github.com/BecksHookham/TechCV.md/blob/main/CVExamples/Jason%20Wong.pdf).
+
+[Makers CV Template](https://docs.google.com/document/d/1dgHkB_F9jbIzbal92RVKRiPHDAttlrytCl6JtKpQWJE/edit)
+
+We have created a guide that we recommend but there's no one correct format.
+
+### CV Builders: Wonsulting.com
+
+We don't recommend CV builders except one which is quite good. It is based on a popular tech CV format called [Jake's CV](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs).
+
+[Wonsulting.com](https://www.wonsulting.com/)
+
+The Wonsulting CV builder is ATS friendly and has a built in AI which can actually be quite helpful if you find it difficult to make your previous experience shine.
+
+The free version is limited but if you're finding it difficult to start on your CV it can be really helpful to use and then you can transfer what you've worked on to a Google Doc you can edit as you go. The paid version unlocks more features but the downside is you need to pay for it and keep paying for it so that you can tweak your CV for different jobs.
+
+### Writing for an Applicant Tracking System
+
+[ATS GUIDE](https://github.com/BecksHookham/TechCV.md/blob/main/ATS.md)
+
+## GitHub CVs
+
+You can use these to apply to jobs within Makers instead of a PDF CV if you want to. They give you a bit more space and creative freedom to show how your previous experience transfers to tech and show off your projects.
+
+You can use it to apply for jobs outside Makers, too, especially if you're talking to a developer at a company and want to send them an easy link to your Github and tech CV.
+
+Github CVs look something like [this](https://github.com/Whatapalaver/CV).
+
+### Guide To Github CVs
 
 [Makers Template](https://github.com/makersacademy/CV)
 
+[Guide to Writing Your Github CV](https://github.com/BecksHookham/Github_CV)
+
+[Github CV Video Tutorial](https://www.youtube.com/watch?v=yaGK_PFYsvE)
 
 
 
