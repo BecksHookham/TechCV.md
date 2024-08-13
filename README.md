@@ -12,8 +12,6 @@ This is the standard CV  but 'techified;. It looks something like [this](https:/
 
 We have created a guide that we recommend but there's no one correct format.
 
-N.B. You absolutely DO NOT need to create this but now you know it's an option. It can be quite useful if you're sending people LinkedIn messages and want to pop over a copy of your CV and portfolio.
-
 ### CV Builders: Wonsulting.com
 
 We don't recommend CV builders except one which is quite good. It is based on a popular tech CV format called [Jake's CV](https://www.overleaf.com/latex/templates/jakes-resume/syzfjbzwjncs).
@@ -35,6 +33,8 @@ You can use these to apply to jobs within Makers instead of a PDF CV if you want
 You can use it to apply for jobs outside Makers, too, especially if you're talking to a developer at a company and want to send them an easy link to your Github and tech CV.
 
 Github CVs look something like [this](https://github.com/Whatapalaver/CV).
+
+N.B. You absolutely DO NOT need to create this but now you know it's an option. It can be quite useful if you're sending people LinkedIn messages and want to pop over a copy of your CV and portfolio.
 
 ### Guide To Github CVs
 
