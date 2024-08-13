@@ -4,7 +4,9 @@ The moment has come to write the long procrastinated over tech CV. We teach two 
 
 ## The PDF CV
 
-This is the standard CV  but 'techified;. It looks something like [this](https://github.com/BecksHookham/TechCV.md/blob/main/CVExamples/Jason%20Wong.pdf).
+This is the standard CV  but 'techified;. It looks something like [this](https://github.com/BecksHookham/TechCV.md/blob/main/CVExamples/Jason%20Wong.pdf).`
+
+:tv: https://youtu.be/Zk1zWEBfi1s
 
 [Makers CV Template](https://docs.google.com/document/d/1dgHkB_F9jbIzbal92RVKRiPHDAttlrytCl6JtKpQWJE/edit)
 
